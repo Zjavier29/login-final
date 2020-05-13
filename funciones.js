@@ -46,7 +46,30 @@ function limpiar(...elementos){
 function ir_a_menuCFT(){
 	//window.location="menu_CFT.php";
 	alert("Hola");
-
+}
+function ir_a_menu1(){
+	//window.location="menu_CFT.php";
+	alert("Menú Asignacion de alumnos");
+}
+function ir_a_menu2(){
+	//window.location="menu_CFT.php";
+	alert("Menú Alumnos");
+}
+function ir_a_menu3(){
+	//window.location="menu_CFT.php";
+	alert("Menú Profesor Supervisor");
+}
+function ir_a_menu4(){
+	//window.location="menu_CFT.php";
+	alert("Menú Empresas");
+}
+function ir_a_menu5(){
+	//window.location="menu_CFT.php";
+	alert("Menú Reportes");
+}
+function ir_a_menu6(){
+	//window.location="menu_CFT.php";
+	alert("Menú Solicitudes");
 }
 function get_fecha(){
 var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
