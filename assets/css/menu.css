@@ -188,6 +188,44 @@ margin: 6px 0px;
 
 
 }
+@media (min-width: 700px) and (max-width: 900px){
+.h_op{
+	font-size:28px;
+}
+.contenedor{
+    position: relative;
+    margin: 0px 0px ;
+    top: 0px;
+	width: 100%;
+	height: 100%;	
+}
+div.opc{
+	height: 170px;
+}
+a.r{
+	width: 30%;
+}
+}
+@media (min-width: 900px) and (max-width: 1336px){
+.contenedor{
+    position: relative;
+    margin: 0px 0px ;
+    top: 0px;
+	width: 100%;
+	height: 100%;
+	
+}
+.opciones{
+	position: absolute;
+	top: 30px;
+}
+div.opc{
+	border: 0;
+	border-radius: 7px;
+	margin: 10px 0px;
+	
+}
+}
 
 
 
